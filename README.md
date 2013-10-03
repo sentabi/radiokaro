@@ -12,6 +12,14 @@ Download
 ===
 http://surbakti.com/software/RadioKaro.apk
 
+Cara Install
+=== 
+Sope lenga i downloadndu file RadioKaro.apk sidatas lit sitik man settingen bas Android-ndu, arah Settings -> Security check Unknown source. Dung e download file RadioKaro.apk, nen inganndu nimpan filena klik filena, dung e pilih install.
+
+Tampilen aplikasina : 
+====
+<img src="http://gambar.karo.or.id//2013/10/device-2013-10-03-112113.png">
+
 
 Siman dahinken
 ===
