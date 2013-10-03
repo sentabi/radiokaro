@@ -18,3 +18,4 @@ Siman dahinken
 - Bas aplikasi lenga lit tombol close ;)
 - ban la banci i dalanken dua kali, adina lit denga aplikasi enda si erdalan
 - kurangi memory internal, ku ja kerina file si putar?
+- lit pilihen streaming bas piga-piga mode ;)
